@@ -2,7 +2,7 @@
 
 [![pythonlover02's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pythonlover02&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# Languages and Tools:
+# Languages and Tools that i know:
 <div style="display: flex; flex-direction: column; height: 100%;">
     <table style="width: 100%; height: 100%; border-collapse: collapse;">
         <tr>
