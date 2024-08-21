@@ -11,16 +11,16 @@
   </a>
 </p>
 
-<<h3 align="center">Languages and Tools:</h3>
+<<h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; flex-direction: column; height: 100%;">
     <table style="width: 100%; height: 100%; border-collapse: collapse;">
         <tr>
             <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Backend:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=python,c,lua"/></td>
+            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=python,c,lua,c++,pascal"/></td>
         </tr>
         <tr>
             <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Frontend:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=flutter"/></td>
+            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=flutter,gtk,qt"/></td>
         </tr>
         <tr>
             <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Database:</td>
