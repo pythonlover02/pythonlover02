@@ -34,10 +34,3 @@
             <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=arch,debian,ubuntu,windows"/></td>
         </tr>
     </table>
-</div>
-<div align="center">
-  <a href="https://github.com/pythonlover02">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pythonlover02&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pythonlover02"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pythonlover02&&theme=tokyonight" alt="pythonlover02" height="150em"/>
-  </a>
-</div>
