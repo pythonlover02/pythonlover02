@@ -40,7 +40,7 @@
         </tr>
         <tr>
             <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Operating Systems:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=arch,debian,opensuse,ubuntu,windows"/></td>
+            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=arch,debian,suse,ubuntu,windows"/></td>
         </tr>
     </table>
 </div>
