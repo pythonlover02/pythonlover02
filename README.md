@@ -2,7 +2,7 @@
 
 [![pythonlover02's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pythonlover02&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-# Languages and Tools that i know:
+Languages and Tools that i know:
 <div style="display: flex; flex-direction: column; height: 100%;">
     <table style="width: 100%; height: 100%; border-collapse: collapse;">
         <tr>
@@ -34,5 +34,3 @@
             <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=arch,debian,ubuntu,windows"/></td>
         </tr>
     </table>
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Cute Cat" width="30">
