@@ -27,6 +27,6 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=ubuntu,debian,arch,windows"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=arch,debian,ubuntu,windows"/></td>
     </tr>
 </table>
