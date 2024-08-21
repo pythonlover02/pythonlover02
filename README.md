@@ -11,36 +11,71 @@
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="display: flex; flex-direction: column; height: 100%;">
-    <table style="width: 100%; height: 100%; border-collapse: collapse;">
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Backend:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=python,c"/></td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Frontend:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=flutter"/></td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Database:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=mysql"/></td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">DevOps:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Version Control:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Ides:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Operating Systems:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=arch,debian,ubuntu,windows"/></td>
-        </tr>
-    </table>
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Languages and Tools</title>
+    <style>
+        .container {
+            display: flex;
+            flex-direction: column;
+            height: 100vh; /* Full viewport height */
+            padding: 20px;
+            box-sizing: border-box;
+        }
+
+        table {
+            width: 100%;
+            height: 100%;
+            border-collapse: collapse;
+            table-layout: fixed;
+        }
+
+        td {
+            vertical-align: middle; /* Center content vertically */
+            padding: 10px; /* Adjust padding as needed */
+        }
+
+        td img {
+            height: 40px; /* Set height for images */
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h3 align="left">Languages and Tools:</h3>
+        <table>
+            <tr>
+                <td style="font-weight: bold;">Backend:</td>
+                <td><img src="https://skillicons.dev/icons?i=python,c" alt="Backend"/></td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;">Frontend:</td>
+                <td><img src="https://skillicons.dev/icons?i=flutter" alt="Frontend"/></td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;">Database:</td>
+                <td><img src="https://skillicons.dev/icons?i=mysql" alt="Database"/></td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;">DevOps:</td>
+                <td><img src="https://skillicons.dev/icons?i=docker" alt="DevOps"/></td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;">Version Control:</td>
+                <td><img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control"/></td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;">Ides:</td>
+                <td><img src="https://skillicons.dev/icons?i=vscode" alt="Ides"/></td>
+            </tr>
+            <tr>
+                <td style="font-weight: bold;">Operating Systems:</td>
+                <td><img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,windows" alt="Operating Systems"/></td>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>
