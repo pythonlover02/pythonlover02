@@ -11,7 +11,7 @@
   </a>
 </p>
 
-<<h3 align="left">Languages and Tools:</h3>
+<<h3 align="center">Languages and Tools:</h3>
 <div style="display: flex; flex-direction: column; height: 100%;">
     <table style="width: 100%; height: 100%; border-collapse: collapse;">
         <tr>
