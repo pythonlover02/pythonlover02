@@ -16,7 +16,7 @@
     <table style="width: 100%; height: 100%; border-collapse: collapse;">
         <tr>
             <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Backend:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=python,c"/></td>
+            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=python,c,lua"/></td>
         </tr>
         <tr>
             <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Frontend:</td>
@@ -40,7 +40,7 @@
         </tr>
         <tr>
             <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Operating Systems:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=arch,debian,ubuntu,windows"/></td>
+            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=arch,debian,opensuse,ubuntu,windows"/></td>
         </tr>
     </table>
 </div>
