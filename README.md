@@ -4,12 +4,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div style="display: flex; flex-direction: column; height: 100%;">
-    <div align="right">
-  <a href="https://github.com/pythonlover02">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pythonlover02&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pythonlover02"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pythonlover02&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pythonlover02"/>
-  </a>
-</div>
     <table style="width: 100%; height: 100%; border-collapse: collapse;">
         <tr>
             <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Backend:</td>
@@ -41,5 +35,10 @@
         </tr>
     </table>
 </div>
-
-
+<div align="center">
+  <a href="https://github.com/pythonlover02">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=pythonlover02&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pythonlover02"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pythonlover02&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pythonlover02"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pythonlover02&&theme=tokyonight" alt="pythonlover02" height="150em"/>
+  </a>
+</div>
