@@ -1,5 +1,20 @@
 # Hello 🌎, I'm PythonLover or PL for friends
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg?username=pythonlover02"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?username=pythonlover02"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg?username=pythonlover02"
+  />
+</picture>
+
 [![pythonlover02's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pythonlover02&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # Languages and Tools:
