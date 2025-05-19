@@ -1,34 +1,6 @@
-# Hello 🌎, I'm PythonLover or PL for friends
+<h1 align="center">Hello 🌎, I'm PythonLover or PL for friends!</h1>
 
-# Languages and Tools:
-<div style="display: flex; flex-direction: column; height: 100%;">
-    <table style="width: 100%; height: 100%; border-collapse: collapse;">
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Backend:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=python,c,lua,cpp"/></td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Frontend:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=flutter,gtk,qt"/></td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Database:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=mysql"/></td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">DevOps:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=docker"/></td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Version Control:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Ides:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=vscode"/></td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Operating Systems:</td>
-            <td style="vertical-align: middle;"><img height="40" src="https://skillicons.dev/icons?i=arch,debian,ubuntu,windows"/></td>
-        </tr>
-    </table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pythonlover02&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false" height="150" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pythonlover02&theme=github_dark&hide_border=true" height="150" alt="streak graph"  />
+</div>
