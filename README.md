@@ -10,7 +10,7 @@
 ⠀⠠⣴⠀⣼⣿⣿⣿⣿⣿⡡⢿⣿⠇⣾⡟⡀⠸⣿⡹⣿⡏⠛⣿⣿⣿⡆⢧⠀⠀  Frontend: HTML, CSS, JavaScript, Flutter
 ⠀⠠⠇⣼⣿⣿⣿⣿⢿⣿⡿⠿⣋⣾⠟⠁⢣⣷⡈⢿⣌⠳⣴⡿⢃⣿⣿⡌⢣⠀  Desktop: Qt framework
 ⠀⠂⢠⣿⣿⣿⣷⡟⠶⠶⠖⠚⠋⠉⠀⠀⠘⠛⠃⠀⠉⠓⠒⠒⣫⣿⣿⣧⠀⢳  Status: Active open source contributor
-⠀⢠⣾⣿⣿⣿⢿⣿⣷⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⠟⠋⣿⣟⣷⠀⠈  Focus: Systems, web development, program development & legacy hardware support
+⠀⢠⣾⣿⣿⣿⢿⣿⣷⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⠟⠋⣿⣟⣷⠀⠈  Focus: Systems, web & program development, legacy hardware support
 ⠀⣾⢻⠛⣿⣿⣆⠙⢄⠘⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣹⣿⠷⢡⣿⠋⠉⠀⠀  Experience: Game layer translation & optimization
 ⠂⠿⣿⣶⣿⣿⣿⣄⠀⠙⢼⣷⡀⠀⠀⡆⠀⠈⡆⠀⢠⢻⠁⢠⣻⡿⠁⠀⠀⠀  Environment: Linux ecosystem
 ⠤⠀⠀⠹⢿⣿⣿⣿⣧⣄⠀⢹⣷⡄⣀⣵⣶⡶⠷⠶⣴⡟⡰⢫⣿⡇⠀⠀⠀⠄  Workflow: Git version control
