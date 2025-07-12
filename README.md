@@ -15,7 +15,7 @@
 ⠂⠿⣿⣶⣿⣿⣿⣄⠀⠙⢼⣷⡀⠀⠀⡆⠀⠈⡆⠀⢠⢻⠁⢠⣻⡿⠁⠀⠀⠀  Environment: Linux ecosystem
 ⠤⠀⠀⠹⢿⣿⣿⣿⣧⣄⠀⢹⣷⡄⣀⣵⣶⡶⠷⠶⣴⡟⡰⢫⣿⡇⠀⠀⠀⠄  Workflow: Git version control
 ⠈⢀⣤⣤⣼⣿⣿⣿⣿⣿⡄⠈⣿⣷⣿⠋⠁⠀⠀⠀⠀⢻⡁⣸⣿⡁⠀⠀⠀⠀  Main Projects: DXVK-Sarek, Proton-Sarek, volt-gui
-⣿⣯⡀⠀⠉⠛⠿⢿⣿⣿⣿⡄⢹⣿⣿⣀⠀⠀⣀⣤⣀⠘⣿⣿⠟⠀⠀⠀⠀⠀  Support: https://www.patreon.com/pythonlover02 & https://ko-fi.com/pythonlover02
+⣿⣯⡀⠀⠉⠛⠿⢿⣿⣿⣿⡄⢹⣿⣿⣀⠀⠀⣀⣤⣀⠘⣿⣿⠟⠀⠀⠀⠀⠀  Support: patreon.com/pythonlover02 & ko-fi.com/pythonlover02
 ⣿⣿⣆⣀⡀⠀⡰⣿⡈⣿⣿⣿⣼⣿⣿⣷⣾⡿⠿⠿⣿⣷⣿⣷⠀⠀⣴⣿⣿⣿  Mission: Making gaming accessible for older hardware
 ⠉⢾⣿⣛⣭⡍⡿⢁⡇⣿⣿⣿⣿⣿⣿⣿⣿⡟⡁⢉⣻⣿⣿⡏⠀⠀⠉⠉⢉⣿  Community: Linux gaming enthusiast & maintainer
 ⠀⠈⢽⣿⡽⠖⢀⣿⡧⢻⣿⣿⣿⣿⣿⣿⣿⣃⡀⠀⣈⣿⣿⡇⠀⠀⠀⠀⣾⡟  Gmail: pythonlover02@gmail.com
