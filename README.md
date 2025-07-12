@@ -1,24 +1,24 @@
 ```
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠙⠓⠢⢤⣀⠀⠀⠀⠀⠀⠀⠀                github.com/pythonlover02
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⡄⠀⠀⠀⠀⠀                ---------------
-⠀⠀⠀⠀⢀⡄⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀                Languages: Python, C, C++, HTML, CSS, Ruby, JavaScript, Flutter (8 total)
-⠀⠀⠀⠀⣾⡇⢠⡠⢤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀                Currently Learning: Rust, Go, Vulkan API
-⠀⠀⠀⡀⣿⡇⢿⣃⠀⠀⠈⠙⠒⠢⠤⠄⠄⠒⠒⠚⠃⠀⠀⣀⠄⢸⠀⠀⠀⠀                Systems: Arch Linux, Debian
-⠀⠀⢠⠀⣿⠇⠄⠙⠓⠲⣤⣀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣼⠏⠁⠀⠀⢧⠀⠀⠀                Frameworks: Qt, React, Ruby on Rails
-⠀⠀⢸⡷⠻⡗⠀⠀⣀⣠⣤⣤⣽⣿⣿⣿⣿⣿⣶⣶⣦⣤⣄⡀⠀⠀⢀⡇⠀⠀                Version Control: Git
-⠀⠀⠨⠂⠶⣷⣿⣿⣿⣿⣿⣿⣿⣿⢹⣿⡟⢻⣿⣿⣿⣿⣿⣿⣿⣦⢀⡇⠀⠀                Backend: Python, C, C++, Ruby
-⠀⠠⣴⠀⣼⣿⣿⣿⣿⣿⡡⢿⣿⠇⣾⡟⡀⠸⣿⡹⣿⡏⠛⣿⣿⣿⡆⢧⠀⠀                Frontend: HTML, CSS, JavaScript, Flutter
-⠀⠠⠇⣼⣿⣿⣿⣿⢿⣿⡿⠿⣋⣾⠟⠁⢣⣷⡈⢿⣌⠳⣴⡿⢃⣿⣿⡌⢣⠀                Desktop: Qt framework
-⠀⠂⢠⣿⣿⣿⣷⡟⠶⠶⠖⠚⠋⠉⠀⠀⠘⠛⠃⠀⠉⠓⠒⠒⣫⣿⣿⣧⠀⢳                Status: Active open source contributor
-⠀⢠⣾⣿⣿⣿⢿⣿⣷⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⠟⠋⣿⣟⣷⠀⠈                Focus: Systems, web development, program development & legacy hardware support
-⠀⣾⢻⠛⣿⣿⣆⠙⢄⠘⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣹⣿⠷⢡⣿⠋⠉⠀⠀                Experience: Game layer translation & optimization
-⠂⠿⣿⣶⣿⣿⣿⣄⠀⠙⢼⣷⡀⠀⠀⡆⠀⠈⡆⠀⢠⢻⠁⢠⣻⡿⠁⠀⠀⠀                Environment: Linux ecosystem
-⠤⠀⠀⠹⢿⣿⣿⣿⣧⣄⠀⢹⣷⡄⣀⣵⣶⡶⠷⠶⣴⡟⡰⢫⣿⡇⠀⠀⠀⠄                Workflow: Git version control
-⠈⢀⣤⣤⣼⣿⣿⣿⣿⣿⡄⠈⣿⣷⣿⠋⠁⠀⠀⠀⠀⢻⡁⣸⣿⡁⠀⠀⠀⠀                Main Projects: DXVK-Sarek, Proton-Sarek, volt-gui
-⣿⣯⡀⠀⠉⠛⠿⢿⣿⣿⣿⡄⢹⣿⣿⣀⠀⠀⣀⣤⣀⠘⣿⣿⠟⠀⠀⠀⠀⠀                Support: https://www.patreon.com/pythonlover02 & https://ko-fi.com/pythonlover02
-⣿⣿⣆⣀⡀⠀⡰⣿⡈⣿⣿⣿⣼⣿⣿⣷⣾⡿⠿⠿⣿⣷⣿⣷⠀⠀⣴⣿⣿⣿                Mission: Making gaming accessible for older hardware
-⠉⢾⣿⣛⣭⡍⡿⢁⡇⣿⣿⣿⣿⣿⣿⣿⣿⡟⡁⢉⣻⣿⣿⡏⠀⠀⠉⠉⢉⣿                Community: Linux gaming enthusiast & maintainer
-⠀⠈⢽⣿⡽⠖⢀⣿⡧⢻⣿⣿⣿⣿⣿⣿⣿⣃⡀⠀⣈⣿⣿⡇⠀⠀⠀⠀⣾⡟                Gmail: pythonlover02@gmail.com
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠉⠙⠓⠢⢤⣀⠀⠀⠀⠀⠀⠀⠀  github.com/pythonlover02
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⡄⠀⠀⠀⠀⠀  ---------------
+⠀⠀⠀⠀⢀⡄⠀⠀⠀⠀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⠀⠀⠀⠀⠀  Languages: Python, C, C++, HTML, CSS, Ruby, JavaScript, Flutter (8 total)
+⠀⠀⠀⠀⣾⡇⢠⡠⢤⣤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀  Currently Learning: Rust, Go, Vulkan API
+⠀⠀⠀⡀⣿⡇⢿⣃⠀⠀⠈⠙⠒⠢⠤⠄⠄⠒⠒⠚⠃⠀⠀⣀⠄⢸⠀⠀⠀⠀  Systems: Arch Linux, Debian
+⠀⠀⢠⠀⣿⠇⠄⠙⠓⠲⣤⣀⠀⠀⠀⠀⠀⠀⠀⣀⣀⣼⠏⠁⠀⠀⢧⠀⠀⠀  Frameworks: Qt, React, Ruby on Rails
+⠀⠀⢸⡷⠻⡗⠀⠀⣀⣠⣤⣤⣽⣿⣿⣿⣿⣿⣶⣶⣦⣤⣄⡀⠀⠀⢀⡇⠀⠀  Version Control: Git
+⠀⠀⠨⠂⠶⣷⣿⣿⣿⣿⣿⣿⣿⣿⢹⣿⡟⢻⣿⣿⣿⣿⣿⣿⣿⣦⢀⡇⠀⠀  Backend: Python, C, C++, Ruby
+⠀⠠⣴⠀⣼⣿⣿⣿⣿⣿⡡⢿⣿⠇⣾⡟⡀⠸⣿⡹⣿⡏⠛⣿⣿⣿⡆⢧⠀⠀  Frontend: HTML, CSS, JavaScript, Flutter
+⠀⠠⠇⣼⣿⣿⣿⣿⢿⣿⡿⠿⣋⣾⠟⠁⢣⣷⡈⢿⣌⠳⣴⡿⢃⣿⣿⡌⢣⠀  Desktop: Qt framework
+⠀⠂⢠⣿⣿⣿⣷⡟⠶⠶⠖⠚⠋⠉⠀⠀⠘⠛⠃⠀⠉⠓⠒⠒⣫⣿⣿⣧⠀⢳  Status: Active open source contributor
+⠀⢠⣾⣿⣿⣿⢿⣿⣷⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⠟⠋⣿⣟⣷⠀⠈  Focus: Systems, web development, program development & legacy hardware support
+⠀⣾⢻⠛⣿⣿⣆⠙⢄⠘⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣹⣿⠷⢡⣿⠋⠉⠀⠀  Experience: Game layer translation & optimization
+⠂⠿⣿⣶⣿⣿⣿⣄⠀⠙⢼⣷⡀⠀⠀⡆⠀⠈⡆⠀⢠⢻⠁⢠⣻⡿⠁⠀⠀⠀  Environment: Linux ecosystem
+⠤⠀⠀⠹⢿⣿⣿⣿⣧⣄⠀⢹⣷⡄⣀⣵⣶⡶⠷⠶⣴⡟⡰⢫⣿⡇⠀⠀⠀⠄  Workflow: Git version control
+⠈⢀⣤⣤⣼⣿⣿⣿⣿⣿⡄⠈⣿⣷⣿⠋⠁⠀⠀⠀⠀⢻⡁⣸⣿⡁⠀⠀⠀⠀  Main Projects: DXVK-Sarek, Proton-Sarek, volt-gui
+⣿⣯⡀⠀⠉⠛⠿⢿⣿⣿⣿⡄⢹⣿⣿⣀⠀⠀⣀⣤⣀⠘⣿⣿⠟⠀⠀⠀⠀⠀  Support: https://www.patreon.com/pythonlover02 & https://ko-fi.com/pythonlover02
+⣿⣿⣆⣀⡀⠀⡰⣿⡈⣿⣿⣿⣼⣿⣿⣷⣾⡿⠿⠿⣿⣷⣿⣷⠀⠀⣴⣿⣿⣿  Mission: Making gaming accessible for older hardware
+⠉⢾⣿⣛⣭⡍⡿⢁⡇⣿⣿⣿⣿⣿⣿⣿⣿⡟⡁⢉⣻⣿⣿⡏⠀⠀⠉⠉⢉⣿  Community: Linux gaming enthusiast & maintainer
+⠀⠈⢽⣿⡽⠖⢀⣿⡧⢻⣿⣿⣿⣿⣿⣿⣿⣃⡀⠀⣈⣿⣿⡇⠀⠀⠀⠀⣾⡟  Gmail: pythonlover02@gmail.com
 ```
 
 ## Project Highlights:
