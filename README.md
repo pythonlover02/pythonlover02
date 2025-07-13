@@ -27,4 +27,4 @@
 
 **Proton-Sarek** - Custom Steam Play compatibility tool based on Wine, optimized for older PCs and GPUs with Vulkan 1.1+ support or not Vulkan support at all.
 
-**volt-gui** - Simple GUI program for modifying and creating the "volt" script and more. Providing an intuitive interface for configuration management, with the objetive of getting the maximum performance posible of a PC.
+**volt-gui** - Simple GUI program for modifying and creating the "volt" script and more. Providing an intuitive interface for configuration management, with the objective of getting the maximum performance posible of a PC.
