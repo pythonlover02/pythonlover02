@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/>
