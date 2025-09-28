@@ -19,5 +19,4 @@
 **volt-gui** - Simple GUI program for modifying and creating the "volt" script and more. Providing an intuitive interface for configuration management, with the objective of getting the maximum performance possibly of a linux PC.
 
 ### Sponsor this projects:
-<a href="https://ko-fi.com/pythonlover02" target="_blank"><img align="center" alt="HTML5" width="40px" src="https://github.githubassets.com/assets/ko_fi-53a60c17e75c.svg" /></a> 
-[ko-fi.com/pythonlover02](https://ko-fi.com/pythonlover02)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pythonlover02)
