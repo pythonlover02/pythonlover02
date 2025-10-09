@@ -16,7 +16,7 @@
 
 **DXVK-Sarek** - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux/Wine, specifically designed for GPUs that don't meet Vulkan 1.3 requirements. Focuses on maintaining compatibility with older hardware, or those with a half cooked Vulkan Drivers.
 
-**volt-gui** - Simple GUI program for modifying and creating the "volt" script and more. Providing an intuitive interface for configuration management, with the objective of getting the maximum performance possibly of a linux PC.
+**volt-gui** - My AMD Adrenaline / NVIDIA Settings Linux Alternative.
 
 ### Sponsor this projects:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pythonlover02)
