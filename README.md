@@ -22,4 +22,4 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pythonlover02)
 
 ## Contact me: 
-**pythonloverv2@gmail.com**
+**Discord: [pythonlover02](https://discordapp.com/users/940379229038731284)** | **Gmail: pythonloverv2@gmail.com** 
