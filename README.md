@@ -12,11 +12,12 @@
 </p>
 
 ## Project Highlights:
-**[Proton-Sarek](https://github.com/pythonlover02/Proton-Sarek)** - Custom Steam Play compatibility tool based on Wine, optimized for older PCs and GPUs with Vulkan 1.1+ support or not Vulkan support at all.
 
 **[DXVK-Sarek](https://github.com/pythonlover02/DXVK-Sarek)** - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux/Wine, specifically designed for GPUs that don't meet Vulkan 1.3 requirements. Focuses on maintaining compatibility with older hardware, or those with a half cooked Vulkan Drivers.
 
 **[volt-gui](https://github.com/pythonlover02/volt-gui)** - My AMD Adrenaline / NVIDIA Settings Linux Alternative.
+
+**[Proton-Sarek](https://github.com/pythonlover02/Proton-Sarek)** - **Unsupported.** Replaced by [proton-cachyos](https://github.com/CachyOS/proton-cachyos) as the supported DXVK-Sarek Proton build (requires `PROTON_DXVK_SAREK=1` to use Sarek instead of regular DXVK)
 
 ### Sponsor this projects:
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/pythonlover02)
