@@ -1,16 +1,3 @@
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=rust" alt="Rust" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ruby" alt="Ruby" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" width="40" height="40"/>
-</p>
-
 ## Project Highlights:
 
 **[DXVK-Sarek](https://github.com/pythonlover02/DXVK-Sarek)** - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux/Wine, specifically designed for GPUs that don't meet Vulkan 1.3 requirements. Focuses on maintaining compatibility with older hardware, or those with a half cooked Vulkan Drivers. [![Stars](https://img.shields.io/github/stars/pythonlover02/DXVK-Sarek?style=social)](https://github.com/pythonlover02/Proton-Sarek/stargazers)
