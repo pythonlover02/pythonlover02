@@ -1,6 +1,6 @@
 ## Project Highlights:
 
-**[DXVK-Sarek](https://github.com/pythonlover02/DXVK-Sarek)** - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux/Wine, specifically designed for GPUs that don't meet Vulkan 1.3 requirements. Focuses on maintaining compatibility with older hardware, or those with a half cooked Vulkan Drivers. [![Stars](https://img.shields.io/github/stars/pythonlover02/DXVK-Sarek?style=social)](https://github.com/pythonlover02/Proton-Sarek/stargazers)
+**[DXVK-Sarek](https://github.com/pythonlover02/DXVK-Sarek)** - Vulkan-based implementation of D3D8, 9, 10 and 11 for Linux/Wine, specifically designed for GPUs that don't meet Vulkan 1.3 requirements. Focuses on maintaining compatibility with older hardware, or those with a half cooked Vulkan Drivers. [![Stars](https://img.shields.io/github/stars/pythonlover02/DXVK-Sarek?style=social)](https://github.com/pythonlover02/DXVK-Sarek/stargazers)
 
 **[volt-gui](https://github.com/pythonlover02/volt-gui)** - My AMD Adrenaline / NVIDIA Settings Linux Alternative. [![Stars](https://img.shields.io/github/stars/pythonlover02/volt-gui?style=social)](https://github.com/pythonlover02/Proton-Sarek/stargazers)
 
