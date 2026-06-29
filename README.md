@@ -1,6 +1,6 @@
 ## Project Highlights:
 
-**[DXVK-Sarek](https://github.com/pythonlover02/DXVK-Sarek)** - Vulkan-based implementation of D3D3, 5, 6, 7, 8, 9, 10 and 11 for Linux/Wine, specifically designed for GPUs that don't meet Vulkan 1.3 requirements. Focuses on maintaining compatibility with older hardware, or those with a half cooked Vulkan Drivers.
+**[DXVK-Sarek](https://github.com/pythonlover02/DXVK-Sarek)** - Vulkan 1.1/1.2 based implementation of D3D3, 5, 6, 7, 8, 9, 10 and 11 for Linux/Wine/Proton. 
 
 **[bones](https://github.com/pythonlover02/bones)** - Performance first Vulkan ubershader Post Processing layer for Linux.
 
