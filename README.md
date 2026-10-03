@@ -1,6 +1,6 @@
 ## Project Highlights:
 
-**[DXVK-Sarek](https://github.com/pythonlover02/DXVK-Sarek)** - Vulkan 1.1/1.2 based implementation of D3D3, 5, 6, 7, 8, 9, 10 and 11 for Linux/Wine/Proton. 
+**[dxvk-sarek](https://github.com/pythonlover02/dxvk-sarek)** - Vulkan 1.1/1.2 based implementation of D3D3, 5, 6, 7, 8, 9, 10 and 11 for Linux/Wine/Proton. 
 
 **[volt-gui](https://github.com/pythonlover02/volt-gui)** - My AMD Adrenaline / NVIDIA Settings Linux Alternative.
 
